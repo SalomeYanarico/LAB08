@@ -22,6 +22,7 @@ public class LAB08 {
         ArrayList<Integer> itera2 = new ArrayList<>();
         resultado++;
         for (int i = 0; i < itera.size(); i++) {
+            //iteracion 1
             int X = itera.get(i);
             for (int j = 0; j < itera1.size(); j++) {
                 int Y = itera1.get(j);
